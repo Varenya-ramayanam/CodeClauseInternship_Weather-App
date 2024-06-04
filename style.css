@@ -127,3 +127,19 @@ button:hover {
   justify-content: space-around;
   gap: 10px;
 }
+@media (max-width: 900px){
+  #main-container{
+    flex-direction: column;
+  }
+  button{
+    padding: 5px;
+    width: 80px;
+    font-size: 10px;
+  }
+  #input-card{
+    width: 80%;
+  }
+  #weather-card{
+    width: 80%;
+  }
+}
