@@ -133,13 +133,13 @@ button:hover {
   }
   button{
     padding: 5px;
-    width: 80px;
+    width: 100px;
     font-size: 10px;
   }
   #input-card{
-    width: 80%;
+    width: 70%;
   }
   #weather-card{
-    width: 80%;
+    width: 70%;
   }
 }
